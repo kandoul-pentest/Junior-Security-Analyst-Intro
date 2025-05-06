@@ -34,7 +34,7 @@ After blocking, the hacker left:
 ## 🛠️ Tools & Resources  
 - **SIEM**: Splunk, AlienVault  
 - **Threat Intel**: VirusTotal, AbuseIPDB  
-- **Labs**: [TryHackMe SOC Path](https://tryhackme.com/paths)  
+- **Labs**: [TryHackMe SOC Path](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 ---
-*© Your Name | [LinkedIn](https://linkedin.com/in/yourprofile)*  
+*© Your Name | [LinkedIn](www.linkedin.com/in/nadia-kandoul)*  
