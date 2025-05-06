@@ -18,12 +18,12 @@ A **Junior (Associate) Security Analyst** in a **Security Operations Center (SOC
 
 #### **Step 2: Investigate the IP**  
 - Used **VirusTotal** to confirm malicious activity:  
-  ![VirusTotal Check](images/virustotal-ip.png)  
+  ![VirusTotal Check](virustotal-ip.png)  
 
 #### **Step 3: Escalate & Block**  
 - Escalated to **SOC Manager** (Ticket #4567).  
 - Blocked IP on firewall:  
-  ![Firewall Block](images/firewall-block.png)  
+  ![Firewall Block](firewall-block.png)  
 
 #### **Step 4: Attacker's Message**  
 After blocking, the hacker left:  
