@@ -37,4 +37,4 @@ After blocking, the hacker left:
 - **Labs**: [TryHackMe SOC Path](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 ---
-*© Your Name | [LinkedIn](nadia-kandoul)*  
+*© Your Name | [LinkedIn](https://www.linkedin.com/in/nadia-kandoul)*  
