@@ -27,7 +27,7 @@ A **Junior (Associate) Security Analyst** in a **Security Operations Center (SOC
 
 #### **Step 4: Attacker's Message**  
 After blocking, the hacker left:  
-> `"{We_Will_Be_Back}"`  
+> `"THM{UNTIL-WE-MEET-AGAIN}"`  
 
 ---
 
