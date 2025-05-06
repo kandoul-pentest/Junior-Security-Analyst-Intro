@@ -14,7 +14,7 @@ A **Junior (Associate) Security Analyst** in a **Security Operations Center (SOC
 ### **Example: Analyzing a Malicious IP Alert**  
 #### **Step 1: Detect the Threat**  
 - Alert triggered in **Splunk** (SIEM tool):  
-  ![Splunk Alert](images/splunk-alert.png)  
+  ![Splunk Alert](splunk-alert.png)  
 
 #### **Step 2: Investigate the IP**  
 - Used **VirusTotal** to confirm malicious activity:  
